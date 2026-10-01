@@ -3,7 +3,7 @@
 <p align="center">
   𓆩 Sløw 𓆪<br>
   ――――――――――――<br>
-  Script Developer @ MidNight Hub • Third Coder<br>
+  Script Developer @ <a href="https://github.com/NSHWShadow/MidNightHub">MidNight Hub</a> • Third Coder<br>
   Discord Bot Maker • Luau Developer<br>
   <i>I love money, and more than money, myself.</i><br>
   <i>And most importantly: let me smoke my cigarette.</i><br>
