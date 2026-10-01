@@ -14,6 +14,9 @@
   <a href="https://guns.lol/slowyxz">
     <img src="https://img.shields.io/badge/guns.lol-slowyxz-000000?style=for-the-badge" />
   </a>
+  <a href="https://discord.com/users/1222501858120306718">
+    <img src="https://img.shields.io/badge/Discord-Sløw-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
